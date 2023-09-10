@@ -7,10 +7,22 @@ const About = () => {
         <div className='pb-2'>
 <p className='text-4xl font-bold  border-b-4 border-gray-500 w-min'>About</p>
         </div > 
-        <p className='text-xl mt-6 '>Hey,I am from Gadag and I have completed my primary education in St John's English Medium School in Gadag itself from 2006-2018.In 10th I got 93% and joined to Govt College of Science with the PCMB core subjects .</p>
+        <p className='text-xl mt-6 '>Hey,Welcome to Portfolio.</p>
         <br />
-        <p className='text-xl'> I got 94% in 12th after completion of Exam and I am interested in Biology and I am trying to get in Medical field.But it is not in my faith and I  did not get a seat for medical.So through KCET I have joined to Dayananda Sagar University which is good.And currently I am pursuing in 4th Sem and I have a curious interest in Web Development!.My current CGPA is 9.00 and I wanna become a web developer.I am curious to learn new upcoming Tech and I had a great experience in building Websites...</p>
-      </div>
+        <p className='text-xl'>
+        Enthusiastic web Developer with more than 1 year of experience in
+working with projects. Skilled in building Websites and problem
+solving.Seeking a internship where I can leverage my skills to
+contribute to the company's success.Recently I have started working
+on Machine-Learning and Deep-Learning Projects.As a web developer,
+I believe that I am a strong candidate for web development project
+and ,I had a great experience, and passion for creating effective and
+engaging websites.Furthermore, I am committed to staying up-to-date
+with the latest web technologies and trends and continuously
+improving my skills through ongoing learning and development.
+Thank You!
+          </p>
+        </div>
     </div>
   )
 }

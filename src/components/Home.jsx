@@ -9,7 +9,8 @@ const Home = () => {
                 <h2 className='md:mt-32 text-4xl sm:text-7xl font-bold text-white text-center md:w-[650px]'>A Web Developer from India</h2>
                 <p className='text-gray-500 py-8 max-w-md'>
                     I have a 1 year of experience in the field of Web Development.
-                    Currently, I love to work on web Development using technologies like React,Tailwind,Django,JS and Android Development
+                    <br />
+                    Currently, I love to work on web Development and Machine-Learning Project using new technologies like Large Language Models
                 </p>
            <div>
             <button className='group text-white w-fit px-6 py-3 my-3 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>Portfolio 
